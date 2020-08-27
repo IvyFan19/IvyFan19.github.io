@@ -346,10 +346,11 @@ h1, h2, h3, h4, h5, h6 {
 
 .chevron {
   position: fixed;
-  left: 50%;
-  bottom: 0px;
+  top: 150%;
+  right: 50%;
+  
   text-align: center;
-  margin-bottom: -300px;
+ 
  
   width: 20px;
   height: 8px;
