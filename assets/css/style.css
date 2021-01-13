@@ -1154,7 +1154,7 @@ mark{
 /*--------------------------------------------------------------
 # Portfolio Details
 --------------------------------------------------------------*/
-.portfolio-details {
+/* .portfolio-details {
   padding: 60px 0;
 }
 
@@ -1180,9 +1180,9 @@ mark{
 
 .portfolio-details .portfolio-details-carousel .owl-dot.active {
   background-color: #0563bb !important;
-}
+} */
 
-.portfolio-details .portfolio-info {
+/* .portfolio-details .portfolio-info {
   padding-top: 45px;
 }
 
@@ -1200,9 +1200,9 @@ mark{
 
 .portfolio-details .portfolio-info ul li + li {
   margin-top: 10px;
-}
+} */
 
-.portfolio-details .portfolio-info p {
+/* .portfolio-details .portfolio-info p {
   font-size: 15px;
   padding: 15px 0 0 0;
 }
@@ -1211,7 +1211,7 @@ mark{
   .portfolio-details .portfolio-info {
     padding-top: 20px;
   }
-}
+} */
 
 /*--------------------------------------------------------------
 # Footer
